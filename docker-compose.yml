@@ -1,0 +1,47 @@
+# ============================================================
+# docker-compose.yml — STM32F4xx HAL Driver Doxygen Builder
+# ============================================================
+#
+# Quickstart
+# ----------
+#   docker compose up --build
+#
+# The generated HTML docs are written to ./docs/html on your host.
+#
+# Useful overrides
+# ----------------
+#   # Use a specific git tag (e.g. v1.8.3):
+#   docker compose build --build-arg REPO_BRANCH=v1.8.3
+#
+#   # Also build a PDF (requires texlive inside the image):
+#   Edit Doxyfile → set GENERATE_LATEX = YES, then re-run.
+# ============================================================
+
+services:
+  doxygen-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        # Override to build a specific branch / tag
+        REPO_URL: https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git
+        REPO_BRANCH: master
+        DOCS_OUTPUT_DIR: /docs/output
+
+    image: stm32f4xx-hal-doxygen:latest
+
+    container_name: stm32f4xx-hal-doxygen
+
+    # Mount the output directory so docs are accessible on the host
+    volumes:
+      - ./docs:/docs/output
+
+    # The container exits after the build; restart: no prevents re-running.
+    restart: "no"
+
+# ---- Named volume (optional alternative to bind-mount) ------
+# Uncomment the block below and replace the bind-mount above
+# with "- stm32_docs:/docs/output" if you prefer a Docker volume.
+#
+# volumes:
+#   stm32_docs:
