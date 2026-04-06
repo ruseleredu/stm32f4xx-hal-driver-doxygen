@@ -7,7 +7,7 @@
 # and can be exported via a named volume or bind-mount.
 # ============================================================
 
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 # ---------- Build arguments ----------
 ARG REPO_URL=https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git
