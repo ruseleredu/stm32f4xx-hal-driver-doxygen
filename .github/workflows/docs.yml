@@ -1,0 +1,34 @@
+name: Doxygen GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: sudo apt-get install -y doxygen graphviz
+
+      - name: Clone HAL driver
+        run: git clone --depth 1 https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git /tmp/hal-driver
+
+      - name: Run Doxygen
+        run: |
+          mkdir -p docs/html
+          # patch INPUT path for CI (not inside Docker)
+          sed 's|/src/hal-driver|/tmp/hal-driver|g; s|/docs/output|docs|g' Doxyfile > Doxyfile.ci
+          doxygen Doxyfile.ci
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/html
