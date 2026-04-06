@@ -34,7 +34,7 @@ services:
 
     # Mount the output directory so docs are accessible on the host
     volumes:
-      - ./docs:/docs/output
+      - stm32_docs:/docs/output
 
     # The container exits after the build; restart: no prevents re-running.
     restart: "no"
@@ -43,5 +43,5 @@ services:
 # Uncomment the block below and replace the bind-mount above
 # with "- stm32_docs:/docs/output" if you prefer a Docker volume.
 #
-# volumes:
-#   stm32_docs:
+volumes:
+  stm32_docs:
