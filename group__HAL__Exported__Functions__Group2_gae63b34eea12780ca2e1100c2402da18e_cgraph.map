@@ -1,0 +1,5 @@
+<map id="HAL_Delay" name="HAL_Delay">
+<area shape="rect" id="Node000001" title="This function provides minimum delay (in milliseconds) based on variable incremented." alt="" coords="5,5,99,31"/>
+<area shape="rect" id="Node000002" href="$group__HAL__Exported__Functions__Group2.html#gaf2c4f03d53e997a54e1fd5e80daa55c4" title="Provides a tick value in millisecond." alt="" coords="147,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,15,133,15,133,21,99,21"/>
+</map>

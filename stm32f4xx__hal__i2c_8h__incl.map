@@ -1,0 +1,13 @@
+<map id="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_i2c.h" name="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_i2c.h">
+<area shape="rect" id="Node000001" title="Header file of I2C HAL module." alt="" coords="249,5,410,45"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="154,93,313,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,48,260,87,256,82,304,43"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__i2c__ex_8h.html" title="Header file of I2C HAL Extension module." alt="" coords="337,93,517,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="355,43,403,82,400,87,351,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,109,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,121,100,164,98,159,204,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,167,333,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,119,236,153,231,153,231,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="357,167,432,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="260,116,357,159,355,163,258,121"/>
+</map>

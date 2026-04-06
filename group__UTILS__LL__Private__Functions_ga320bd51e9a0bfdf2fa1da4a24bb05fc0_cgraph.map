@@ -1,0 +1,7 @@
+<map id="UTILS_EnablePLLAndSwitchSystem" name="UTILS_EnablePLLAndSwitchSystem">
+<area shape="rect" id="Node000001" title="Function to enable PLL and switch system clock to PLL." alt="" coords="5,23,207,63"/>
+<area shape="rect" id="Node000002" href="$group__UTILS__EF__SYSTEM.html#ga74f71dc4b93a3b99e5f9e042e85e2ce5" title="Update number of Flash wait states in line with new frequency and current voltage range." alt="" coords="269,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,30,255,25,255,30,207,35"/>
+<area shape="rect" id="Node000003" href="$group__UTILS__EF__SYSTEM.html#ga5af902d59c4c2d9dc5e189df0bc71ecd" title="This function sets directly SystemCoreClock CMSIS variable." alt="" coords="255,55,433,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,51,241,54,240,60,207,56"/>
+</map>

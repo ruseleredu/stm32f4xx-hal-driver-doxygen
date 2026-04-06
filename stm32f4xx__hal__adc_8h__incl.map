@@ -1,0 +1,17 @@
+<map id="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_adc.h" name="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_adc.h">
+<area shape="rect" id="Node000001" title="Header file containing functions prototypes of ADC HAL library." alt="" coords="216,5,381,45"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="170,167,329,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,48,220,67,197,95,194,111,199,127,210,142,224,156,220,160,206,146,194,129,188,111,192,92,217,63,248,43"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__ll__adc_8h.html" title="Header file of ADC LL module." alt="" coords="353,167,503,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="343,43,376,64,405,92,420,122,428,152,423,154,415,124,401,95,373,68,340,48"/>
+<area shape="rect" id="Node000007" href="$stm32f4xx__hal__adc__ex_8h.html" title="Header file of ADC HAL module." alt="" coords="207,93,391,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="301,46,301,79,296,79,296,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="360,240,464,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,190,374,232,372,237,274,194"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,240,205,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,194,142,236,140,231,225,190"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="229,240,304,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,192,263,226,258,228,250,193"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="428,193,420,227,415,226,423,192"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="293,121,267,157,263,154,288,117"/>
+</map>

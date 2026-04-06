@@ -1,0 +1,16 @@
+<map id="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_flash.h" name="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_flash.h">
+<area shape="rect" id="Node000001" title="Header file of FLASH HAL module." alt="" coords="213,5,387,45"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="154,181,313,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,48,218,67,194,95,190,113,193,133,203,152,215,170,211,173,199,155,188,135,184,113,190,92,215,63,246,43"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__flash__ex_8h.html" title="Header file of FLASH HAL Extension module." alt="" coords="204,101,396,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="303,46,303,87,297,87,297,46"/>
+<area shape="rect" id="Node000007" href="$stm32f4xx__hal__flash__ramfunc_8h.html" title="Header file of FLASH RAMFUNC driver." alt="" coords="420,93,577,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="345,43,444,85,442,90,343,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,255,109,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,209,100,252,98,247,204,204"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,255,333,280"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,207,236,241,231,241,231,207"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="357,255,432,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="260,204,357,247,355,251,258,209"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="292,128,254,173,250,169,288,124"/>
+</map>

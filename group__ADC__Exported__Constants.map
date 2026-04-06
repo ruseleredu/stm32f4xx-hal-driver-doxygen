@@ -1,0 +1,19 @@
+<map id="ADC Exported Constants" name="ADC Exported Constants">
+<area shape="rect" id="Node000002" href="$group__ADC.html" title="ADC driver modules." alt="" coords="5,381,56,407"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,381,285,407"/>
+<area shape="rect" id="Node000004" href="$group__ADC__ClockPrescaler.html" title=" " alt="" coords="348,5,503,31"/>
+<area shape="rect" id="Node000009" href="$group__ADC__Data__align.html" title=" " alt="" coords="364,55,487,80"/>
+<area shape="rect" id="Node000012" href="$group__ADC__EOCSelection.html" title=" " alt="" coords="353,104,498,129"/>
+<area shape="rect" id="Node000003" href="$group__ADC__Error__Code.html" title=" " alt="" coords="364,153,487,179"/>
+<area shape="rect" id="Node000013" href="$group__ADC__Event__type.html" title=" " alt="" coords="363,203,488,228"/>
+<area shape="rect" id="Node000008" href="$group__ADC__External__trigger__Source__Regular.html" title=" " alt="" coords="347,253,503,293"/>
+<area shape="rect" id="Node000007" href="$group__ADC__External__trigger__edge__Regular.html" title=" " alt="" coords="347,317,503,357"/>
+<area shape="rect" id="Node000006" href="$group__ADC__Resolution.html" title=" " alt="" coords="364,381,487,407"/>
+<area shape="rect" id="Node000014" href="$group__ADC__analog__watchdog__selection.html" title=" " alt="" coords="342,431,509,471"/>
+<area shape="rect" id="Node000010" href="$group__ADC__channels.html" title=" " alt="" coords="337,496,514,521"/>
+<area shape="rect" id="Node000017" href="$group__ADC__channels__type.html" title=" " alt="" coords="351,545,499,571"/>
+<area shape="rect" id="Node000005" href="$group__ADC__delay__between__2__sampling__phases.html" title=" " alt="" coords="343,595,508,635"/>
+<area shape="rect" id="Node000016" href="$group__ADC__flags__definition.html" title=" " alt="" coords="347,660,503,685"/>
+<area shape="rect" id="Node000015" href="$group__ADC__interrupts__definition.html" title=" " alt="" coords="333,709,517,735"/>
+<area shape="rect" id="Node000011" href="$group__ADC__sampling__times.html" title=" " alt="" coords="346,759,505,784"/>
+</map>

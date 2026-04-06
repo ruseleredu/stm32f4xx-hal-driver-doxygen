@@ -1,0 +1,14 @@
+<map id="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_tim.h" name="/tmp/hal&#45;driver/Inc/stm32f4xx_hal_tim.h">
+<area shape="rect" id="Node000001" title="Header file of TIM HAL module." alt="" coords="151,5,315,45"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="154,167,313,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,47,200,80,196,99,197,118,205,137,217,154,212,157,201,140,192,119,190,99,195,78,215,44"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__tim__ex_8h.html" title="Header file of TIM HAL Extended module." alt="" coords="207,93,390,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="251,44,282,81,278,84,247,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,240,109,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,194,100,237,98,232,204,190"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,240,333,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,192,236,226,231,226,231,192"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="357,240,432,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="260,190,357,232,355,237,258,194"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="290,121,255,158,251,155,286,117"/>
+</map>
