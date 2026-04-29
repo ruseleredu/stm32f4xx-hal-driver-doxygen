@@ -1,0 +1,5 @@
+<map id="HAL_RTCEx_WakeUpTimerEventCallback" name="HAL_RTCEx_WakeUpTimerEventCallback">
+<area shape="rect" id="Node000001" title="Wake Up Timer Event Callback in non blocking mode." alt="" coords="5,5,236,45"/>
+<area shape="rect" id="Node000002" href="$group__HAL__Exported__Functions__Group2.html#gaa8361d44d76b7f6256834f828165837a" title="This function is called to increment a global variable &quot;uwTick&quot; used as application time base." alt="" coords="284,13,385,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,23,271,23,271,28,236,28"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="DMA Exported Constants" name="DMA Exported Constants">
+<area shape="rect" id="Node000002" href="$group__DMA.html" title="DMA HAL module driver." alt="" coords="5,367,59,392"/>
+<area shape="rect" id="Node000001" title="DMA Exported constants." alt="" coords="107,367,291,392"/>
+<area shape="rect" id="Node000004" href="$group__DMA__Channel__selection.html" title="DMA channel selection." alt="" coords="377,5,551,31"/>
+<area shape="rect" id="Node000005" href="$group__DMA__Data__transfer__direction.html" title="DMA data transfer direction." alt="" coords="362,55,566,80"/>
+<area shape="rect" id="Node000003" href="$group__DMA__Error__Code.html" title="DMA Error Code." alt="" coords="401,104,527,129"/>
+<area shape="rect" id="Node000012" href="$group__DMA__FIFO__direct__mode.html" title="DMA FIFO direct mode." alt="" coords="379,153,549,179"/>
+<area shape="rect" id="Node000013" href="$group__DMA__FIFO__threshold__level.html" title="DMA FIFO level." alt="" coords="388,203,540,243"/>
+<area shape="rect" id="Node000014" href="$group__DMA__Memory__burst.html" title="DMA memory burst." alt="" coords="390,268,538,293"/>
+<area shape="rect" id="Node000009" href="$group__DMA__Memory__data__size.html" title="DMA memory data size." alt="" coords="377,317,551,343"/>
+<area shape="rect" id="Node000007" href="$group__DMA__Memory__incremented__mode.html" title="DMA memory incremented mode." alt="" coords="345,367,583,392"/>
+<area shape="rect" id="Node000015" href="$group__DMA__Peripheral__burst.html" title="DMA peripheral burst." alt="" coords="384,416,544,441"/>
+<area shape="rect" id="Node000008" href="$group__DMA__Peripheral__data__size.html" title="DMA peripheral data size." alt="" coords="371,465,557,491"/>
+<area shape="rect" id="Node000006" href="$group__DMA__Peripheral__incremented__mode.html" title="DMA peripheral incremented mode." alt="" coords="339,515,589,540"/>
+<area shape="rect" id="Node000011" href="$group__DMA__Priority__level.html" title="DMA priority levels." alt="" coords="394,564,534,589"/>
+<area shape="rect" id="Node000017" href="$group__DMA__flag__definitions.html" title="DMA flag definitions." alt="" coords="387,613,541,639"/>
+<area shape="rect" id="Node000016" href="$group__DMA__interrupt__enable__definitions.html" title="DMA interrupts definition." alt="" coords="383,663,545,703"/>
+<area shape="rect" id="Node000010" href="$group__DMA__mode.html" title="DMA mode." alt="" coords="417,728,511,753"/>
+</map>

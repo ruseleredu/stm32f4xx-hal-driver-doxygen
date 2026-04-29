@@ -1,0 +1,9 @@
+<map id="ADC_HandleTypeDef" name="ADC_HandleTypeDef">
+<area shape="rect" id="Node000001" title="ADC handle Structure definition." alt="" coords="51,197,207,223"/>
+<area shape="rect" id="Node000002" href="$structADC__InitTypeDef.html" title="Structure definition of ADC and regular group initialization." alt="" coords="5,101,136,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,137,124,196,120,199,83,140"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="160,101,333,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,137,145,199,142,195,220,133"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="179,5,314,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,45,249,101,244,101,244,45"/>
+</map>

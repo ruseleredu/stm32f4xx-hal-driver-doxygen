@@ -1,0 +1,11 @@
+<map id="IRDA Exported constants" name="IRDA Exported constants">
+<area shape="rect" id="Node000002" href="$group__IRDA.html" title="HAL IRDA module driver." alt="" coords="5,153,60,179"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,153,291,179"/>
+<area shape="rect" id="Node000003" href="$group__IRDA__Error__Code.html" title=" " alt="" coords="369,5,496,31"/>
+<area shape="rect" id="Node000008" href="$group__IRDA__Flags.html" title=" " alt="" coords="386,55,479,80"/>
+<area shape="rect" id="Node000009" href="$group__IRDA__Interrupt__definition.html" title=" " alt="" coords="339,104,527,129"/>
+<area shape="rect" id="Node000007" href="$group__IRDA__Low__Power.html" title=" " alt="" coords="369,153,497,179"/>
+<area shape="rect" id="Node000006" href="$group__IRDA__Mode.html" title=" " alt="" coords="357,203,508,228"/>
+<area shape="rect" id="Node000005" href="$group__IRDA__Parity.html" title=" " alt="" coords="385,252,480,277"/>
+<area shape="rect" id="Node000004" href="$group__IRDA__Word__Length.html" title=" " alt="" coords="363,301,502,327"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="I2S Exported Constants" name="I2S Exported Constants">
+<area shape="rect" id="Node000002" href="$group__I2S.html" title=" " alt="" coords="5,252,48,277"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,252,269,277"/>
+<area shape="rect" id="Node000008" href="$group__I2S__Audio__Frequency.html" title=" " alt="" coords="339,5,493,31"/>
+<area shape="rect" id="Node000010" href="$group__I2S__Clock__Polarity.html" title=" " alt="" coords="348,55,484,80"/>
+<area shape="rect" id="Node000013" href="$group__I2S__Clock__Source.html" title=" " alt="" coords="317,104,515,129"/>
+<area shape="rect" id="Node000006" href="$group__I2S__Data__Format.html" title=" " alt="" coords="353,153,479,179"/>
+<area shape="rect" id="Node000003" href="$group__I2S__Error.html" title=" " alt="" coords="377,203,455,228"/>
+<area shape="rect" id="Node000012" href="$group__I2S__Flags__Definition.html" title=" " alt="" coords="342,252,490,277"/>
+<area shape="rect" id="Node000009" href="$group__I2S__FullDuplex__Mode.html" title=" " alt="" coords="339,301,493,327"/>
+<area shape="rect" id="Node000011" href="$group__I2S__Interrupts__Definition.html" title=" " alt="" coords="328,351,504,376"/>
+<area shape="rect" id="Node000007" href="$group__I2S__MCLK__Output.html" title=" " alt="" coords="351,400,481,425"/>
+<area shape="rect" id="Node000004" href="$group__I2S__Mode.html" title=" " alt="" coords="375,449,457,475"/>
+<area shape="rect" id="Node000005" href="$group__I2S__Standard.html" title=" " alt="" coords="364,499,468,524"/>
+</map>

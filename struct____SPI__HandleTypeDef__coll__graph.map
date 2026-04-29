@@ -1,0 +1,9 @@
+<map id="__SPI_HandleTypeDef" name="__SPI_HandleTypeDef">
+<area shape="rect" id="Node000001" title="SPI handle Structure definition." alt="" coords="43,217,205,243"/>
+<area shape="rect" id="Node000002" href="$structSPI__InitTypeDef.html" title="SPI Configuration Structure definition." alt="" coords="5,101,128,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,138,120,216,116,218,76,140"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="152,101,325,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,139,138,219,134,215,215,135"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="171,5,306,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,45,241,101,236,101,236,45"/>
+</map>
