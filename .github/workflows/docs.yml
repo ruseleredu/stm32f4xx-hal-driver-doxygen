@@ -11,11 +11,21 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
+    # 👇 Run everything inside a container with Doxygen preinstalled
+    container:
+      image: ghcr.io/doxygen/doxygen:latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: sudo apt-get install -y doxygen graphviz
+      - name: Verify Doxygen version
+        run: doxygen --version
+
+      - name: Install Graphviz (needed for diagrams)
+        run: |
+          apt-get update
+          apt-get install -y graphviz
 
       - name: Clone HAL driver
         run: git clone --depth 1 https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git /tmp/hal-driver
@@ -23,12 +33,15 @@ jobs:
       - name: Run Doxygen
         run: |
           mkdir -p docs/html
-          # patch INPUT path for CI (not inside Docker)
           sed 's|/src/hal-driver|/tmp/hal-driver|g; s|/docs/output|docs|g' Doxyfile > Doxyfile.ci
           doxygen Doxyfile.ci
+
+      - name: Add .nojekyll
+        run: touch docs/html/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs/html
+          force_orphan: true
