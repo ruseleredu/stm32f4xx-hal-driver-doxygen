@@ -25,7 +25,7 @@ jobs:
       - name: Install Graphviz (needed for diagrams)
         run: |
           apt-get update
-          apt-get install -y graphviz
+          apt-get install -y git graphviz
 
       - name: Clone HAL driver
         run: git clone --depth 1 https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git /tmp/hal-driver
