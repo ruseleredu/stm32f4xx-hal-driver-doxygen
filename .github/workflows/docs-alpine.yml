@@ -1,8 +1,6 @@
 name: Doxygen GitHub Pages
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -16,7 +14,7 @@ jobs:
       image: ruseler/doxygen:alpine
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Clone HAL driver (master only)
         run: |
