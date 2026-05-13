@@ -1,0 +1,81 @@
+# ==============================================================
+# Doxyfile — STM32F4xx HAL Driver
+# Tuned for the STMicroelectronics stm32f4xx-hal-driver repo.
+# Source is cloned to /src/hal-driver by the Dockerfile.
+# ==============================================================
+
+# ---- Project identity ----------------------------------------
+PROJECT_NAME           = "STM32F4xx HAL Driver"
+PROJECT_BRIEF          = "STM32CubeF4 HAL / LL Drivers API Reference"
+PROJECT_NUMBER         = master
+PROJECT_LOGO           =
+
+# ---- Input ---------------------------------------------------
+INPUT                  = /src/hal-driver/Inc \
+                         /src/hal-driver/Src
+FILE_PATTERNS          = *.c *.h
+RECURSIVE              = YES
+EXCLUDE_PATTERNS       = */Legacy/*
+
+# ---- Output --------------------------------------------------
+OUTPUT_DIRECTORY       = /docs/output
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO        # set YES to also build a PDF
+LATEX_OUTPUT           = latex
+
+# ---- Extraction ----------------------------------------------
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+EXTRACT_ANON_NSPACES   = NO
+
+# ---- Preprocessing -------------------------------------------
+# The HAL driver uses conditional compilation heavily.
+# Define the macros below so Doxygen sees all code paths.
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+EXPAND_ONLY_PREDEF     = NO
+PREDEFINED             = \
+    USE_HAL_DRIVER \
+    STM32F4xx \
+    HAL_MODULE_ENABLED \
+    __IO=volatile \
+    __I=volatile\ const \
+    __O=volatile \
+    __weak= \
+    __STATIC_INLINE=static\ inline \
+    __STATIC_FORCEINLINE=static\ inline \
+    __PACKED= \
+    __PACKED_STRUCT=struct \
+    __ALIGNED(x)= \
+    UNUSED(x)=(void)(x)
+
+# ---- Diagrams ------------------------------------------------
+HAVE_DOT               = YES       # requires graphviz
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = NO
+CLASS_DIAGRAMS         = YES
+INCLUDE_GRAPH          = YES
+INCLUDED_BY_GRAPH      = YES
+DOT_GRAPH_MAX_NODES    = 100
+
+# ---- Source browsing -----------------------------------------
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = NO
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION    = YES
+
+# ---- HTML appearance -----------------------------------------
+GENERATE_TREEVIEW      = YES
+TREEVIEW_WIDTH         = 250
+HTML_DYNAMIC_SECTIONS  = YES
+SEARCHENGINE           = YES
+
+# ---- Warnings ------------------------------------------------
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = NO        # HAL headers are partially documented
+WARN_NO_PARAMDOC       = NO
+QUIET                  = NO
