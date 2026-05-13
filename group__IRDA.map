@@ -1,0 +1,11 @@
+<map id="IRDA" name="IRDA">
+<area shape="rect" id="Node000001" title="HAL IRDA module driver." alt="" coords="217,161,267,189"/>
+<area shape="rect" id="Node000004" href="$group__IRDA__Exported__Constants.html" title=" " alt="" coords="319,5,489,33"/>
+<area shape="rect" id="Node000009" href="$group__IRDA__Exported__Functions.html" title=" " alt="" coords="315,57,493,85"/>
+<area shape="rect" id="Node000005" href="$group__IRDA__Exported__Macros.html" title=" " alt="" coords="327,109,481,137"/>
+<area shape="rect" id="Node000003" href="$group__IRDA__Exported__Types.html" title=" " alt="" coords="331,161,477,189"/>
+<area shape="rect" id="Node000006" href="$group__IRDA__Private__Constants.html" title=" " alt="" coords="324,213,484,241"/>
+<area shape="rect" id="Node000008" href="$group__IRDA__Private__Functions.html" title=" " alt="" coords="326,265,482,293"/>
+<area shape="rect" id="Node000007" href="$group__IRDA__Private__Macros.html" title=" " alt="" coords="334,317,474,345"/>
+<area shape="rect" id="Node000002" href="$group__STM32F4xx__HAL__Driver.html" title=" " alt="" coords="5,161,169,189"/>
+</map>

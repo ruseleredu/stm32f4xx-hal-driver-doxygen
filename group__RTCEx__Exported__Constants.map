@@ -1,0 +1,22 @@
+<map id="RTCEx Exported Constants" name="RTCEx Exported Constants">
+<area shape="rect" id="Node000002" href="$group__RTCEx.html" title="RTC Extended HAL module driver." alt="" coords="5,590,66,618"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,590,297,618"/>
+<area shape="rect" id="Node000019" href="$group__RTCEx__Add__1__Second__Parameter__Definitions.html" title=" " alt="" coords="378,5,533,50"/>
+<area shape="rect" id="Node000003" href="$group__RTCEx__Backup__Registers__Definitions.html" title=" " alt="" coords="374,75,538,119"/>
+<area shape="rect" id="Node000020" href="$group__RTCEx__Calib__Output__selection__Definitions.html" title=" " alt="" coords="382,144,529,189"/>
+<area shape="rect" id="Node000016" href="$group__RTCEx__Coarse__Calibration__Definitions.html" title=" " alt="" coords="386,213,525,258"/>
+<area shape="rect" id="Node000018" href="$group__RTCEx__Smooth__calib__Plus__pulses__Definitions.html" title=" " alt="" coords="376,283,535,327"/>
+<area shape="rect" id="Node000017" href="$group__RTCEx__Smooth__calib__period__Definitions.html" title=" " alt="" coords="383,352,528,397"/>
+<area shape="rect" id="Node000010" href="$group__RTCEx__Tamper__Filter__Definitions.html" title=" " alt="" coords="383,421,528,466"/>
+<area shape="rect" id="Node000008" href="$group__RTCEx__Tamper__Interrupt__Definitions.html" title=" " alt="" coords="372,491,539,535"/>
+<area shape="rect" id="Node000006" href="$group__RTCEx__Tamper__Pin__Definitions.html" title=" " alt="" coords="352,559,559,587"/>
+<area shape="rect" id="Node000012" href="$group__RTCEx__Tamper__Pin__Precharge__Duration__Definitions.html" title=" " alt="" coords="358,611,554,655"/>
+<area shape="rect" id="Node000007" href="$group__RTCEx__Tamper__Pin__Selection.html" title=" " alt="" coords="366,679,545,707"/>
+<area shape="rect" id="Node000013" href="$group__RTCEx__Tamper__Pull__Up__Definitions.html" title=" " alt="" coords="378,731,534,775"/>
+<area shape="rect" id="Node000011" href="$group__RTCEx__Tamper__Sampling__Frequencies__Definitions.html" title=" " alt="" coords="370,800,541,845"/>
+<area shape="rect" id="Node000014" href="$group__RTCEx__Tamper__TimeStampOnTamperDetection__Definitions.html" title=" " alt="" coords="345,869,566,914"/>
+<area shape="rect" id="Node000009" href="$group__RTCEx__Tamper__Trigger__Definitions.html" title=" " alt="" coords="374,939,537,983"/>
+<area shape="rect" id="Node000004" href="$group__RTCEx__Timestamp__Edges__Definitions.html" title=" " alt="" coords="370,1008,541,1053"/>
+<area shape="rect" id="Node000005" href="$group__RTCEx__Timestamp__Pin__Selection.html" title=" " alt="" coords="357,1076,554,1104"/>
+<area shape="rect" id="Node000015" href="$group__RTCEx__Wakeup__Timer__Definitions.html" title=" " alt="" coords="380,1128,531,1173"/>
+</map>

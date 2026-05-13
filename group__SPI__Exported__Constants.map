@@ -1,0 +1,17 @@
+<map id="SPI Exported Constants" name="SPI Exported Constants">
+<area shape="rect" id="Node000002" href="$group__SPI.html" title="SPI HAL module driver." alt="" coords="5,317,46,345"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,317,257,345"/>
+<area shape="rect" id="Node000010" href="$group__SPI__BaudRate__Prescaler.html" title=" " alt="" coords="324,5,482,33"/>
+<area shape="rect" id="Node000013" href="$group__SPI__CRC__Calculation.html" title=" " alt="" coords="333,57,473,85"/>
+<area shape="rect" id="Node000008" href="$group__SPI__Clock__Phase.html" title=" " alt="" coords="345,109,461,137"/>
+<area shape="rect" id="Node000007" href="$group__SPI__Clock__Polarity.html" title=" " alt="" coords="340,161,466,189"/>
+<area shape="rect" id="Node000006" href="$group__SPI__Data__Size.html" title=" " alt="" coords="354,213,452,241"/>
+<area shape="rect" id="Node000005" href="$group__SPI__Direction.html" title=" " alt="" coords="336,265,470,293"/>
+<area shape="rect" id="Node000003" href="$group__SPI__Error__Code.html" title=" " alt="" coords="348,317,458,345"/>
+<area shape="rect" id="Node000015" href="$group__SPI__Flags__definition.html" title=" " alt="" coords="334,369,472,397"/>
+<area shape="rect" id="Node000014" href="$group__SPI__Interrupt__definition.html" title=" " alt="" coords="324,421,483,449"/>
+<area shape="rect" id="Node000011" href="$group__SPI__MSB__LSB__transmission.html" title=" " alt="" coords="314,473,492,501"/>
+<area shape="rect" id="Node000004" href="$group__SPI__Mode.html" title=" " alt="" coords="364,525,442,553"/>
+<area shape="rect" id="Node000009" href="$group__SPI__Slave__Select__management.html" title=" " alt="" coords="305,577,501,605"/>
+<area shape="rect" id="Node000012" href="$group__SPI__TI__mode.html" title=" " alt="" coords="357,629,449,657"/>
+</map>

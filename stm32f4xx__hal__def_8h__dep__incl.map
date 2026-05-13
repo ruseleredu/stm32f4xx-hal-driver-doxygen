@@ -1,0 +1,160 @@
+<map id="hal&#45;driver/Inc/stm32f4xx_hal_def.h" name="hal&#45;driver/Inc/stm32f4xx_hal_def.h">
+<area shape="rect" id="Node000001" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="3136,5,3306,50"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__adc_8h.html" title="Header file containing functions prototypes of ADC HAL library." alt="" coords="5,191,176,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3120,32,2478,38,1546,50,1084,59,683,71,389,84,296,92,247,101,207,119,170,143,113,192,109,188,167,139,204,114,246,95,296,87,389,79,683,65,1084,54,1546,45,2478,33,3120,27"/>
+<area shape="rect" id="Node000004" href="$stm32f4xx__hal__adc__ex_8h.html" title="Header file of ADC HAL module." alt="" coords="259,98,429,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="3121,32,2600,37,1833,49,1048,69,719,83,471,101,430,106,429,100,470,95,719,78,1047,64,1833,43,2600,32,3121,27"/>
+<area shape="rect" id="Node000005" href="$stm32f4xx__hal__can_8h.html" title="Header file of CAN HAL module." alt="" coords="200,191,370,235"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="3120,33,2584,40,1819,54,1091,74,824,87,667,101,576,119,487,144,341,193,339,188,485,138,575,114,666,95,824,81,1091,69,1819,49,2584,35,3120,27"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__cec_8h.html" title="Header file of CEC HAL module." alt="" coords="395,191,565,235"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="3121,33,2618,41,1908,55,1236,75,989,87,844,101,758,119,673,143,534,193,532,187,671,138,757,114,843,95,989,82,1235,70,1908,49,2618,35,3121,28"/>
+<area shape="rect" id="Node000007" href="$stm32f4xx__hal__cortex_8h.html" title="Header file of CORTEX HAL module." alt="" coords="589,191,760,235"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="3121,33,2649,41,1990,55,1367,75,1140,87,1006,101,927,119,850,143,724,192,722,188,848,138,925,114,1005,95,1139,82,1367,69,1990,49,2649,35,3121,28"/>
+<area shape="rect" id="Node000008" href="$stm32f4xx__hal__crc_8h.html" title="Header file of CRC HAL module." alt="" coords="784,191,954,235"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="3120,33,2674,40,2057,53,1477,73,1265,86,1140,101,1075,119,1011,143,909,193,906,188,1009,139,1073,114,1139,95,1264,80,1476,68,2057,47,2674,34,3120,28"/>
+<area shape="rect" id="Node000009" href="$stm32f4xx__hal__cryp_8h.html" title="Header file of CRYP HAL module." alt="" coords="979,191,1149,235"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="3121,32,2689,34,2098,44,1804,53,1544,64,1343,80,1272,90,1226,101,1185,119,1146,143,1087,193,1083,188,1143,139,1182,114,1224,95,1271,85,1342,75,1544,59,1804,47,2098,39,2689,29,3120,26"/>
+<area shape="rect" id="Node000010" href="$stm32f4xx__hal__cryp__ex_8h.html" title="Header file of CRYP HAL Extension module." alt="" coords="1237,98,1408,143"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="3121,33,2275,54,1785,74,1581,87,1427,101,1408,103,1408,98,1426,95,1581,81,1785,69,2275,49,3120,28"/>
+<area shape="rect" id="Node000011" href="$stm32f4xx__hal__dac_8h.html" title="Header file of DAC HAL module." alt="" coords="1173,191,1344,235"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="3121,32,2737,34,2222,43,1968,52,1744,64,1571,80,1511,90,1472,100,1456,110,1446,120,1436,132,1421,145,1372,172,1323,192,1321,188,1370,167,1418,140,1433,129,1442,117,1453,105,1469,96,1510,85,1571,75,1744,59,1968,47,2222,38,2737,29,3121,26"/>
+<area shape="rect" id="Node000012" href="$stm32f4xx__hal__dac__ex_8h.html" title="Header file of DAC HAL Extended module." alt="" coords="1483,98,1653,143"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="3121,31,2866,32,2507,40,2093,62,1880,78,1672,101,1654,103,1653,98,1672,95,1880,73,2093,56,2507,35,2866,27,3121,25"/>
+<area shape="rect" id="Node000013" href="$stm32f4xx__hal__dma_8h.html" title="Header file of DMA HAL module." alt="" coords="1368,191,1538,235"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="3121,32,2786,37,2348,48,2134,57,1946,68,1801,83,1750,91,1717,100,1702,110,1692,121,1682,133,1667,145,1603,174,1539,195,1538,190,1601,169,1664,140,1678,129,1688,117,1698,106,1715,96,1749,86,1800,78,1945,63,2134,52,2348,43,2786,32,3121,27"/>
+<area shape="rect" id="Node000014" href="$stm32f4xx__hal__dma2d_8h.html" title="Header file of DMA2D HAL module." alt="" coords="1563,191,1733,235"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="3120,33,2835,40,2474,52,2145,72,2028,85,1960,100,1945,110,1936,121,1927,133,1912,145,1843,166,1734,194,1733,189,1842,161,1909,140,1923,129,1932,118,1941,106,1957,96,2027,80,2145,67,2474,47,2835,34,3120,28"/>
+<area shape="rect" id="Node000015" href="$stm32f4xx__hal__dma__ex_8h.html" title="Header file of DMA HAL extension module." alt="" coords="1728,98,1898,143"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="3120,32,2902,36,2604,46,2263,66,2088,82,1918,101,1899,103,1898,98,1917,95,2088,76,2262,61,2603,40,2902,30,3120,27"/>
+<area shape="rect" id="Node000016" href="$stm32f4xx__hal__dsi_8h.html" title="Header file of DSI HAL module." alt="" coords="1757,191,1928,235"/>
+<area shape="poly" id="edge25_Node000001_Node000016" title=" " alt="" coords="3120,33,2883,38,2582,49,2289,69,2169,83,2078,101,2021,119,1966,144,1878,192,1875,188,1964,139,2019,114,2076,95,2168,78,2289,64,2581,43,2883,32,3120,27"/>
+<area shape="rect" id="Node000017" href="$stm32f4xx__hal__eth_8h.html" title="Header file of ETH HAL module." alt="" coords="1952,191,2122,235"/>
+<area shape="poly" id="edge27_Node000001_Node000017" title=" " alt="" coords="3120,34,2872,40,2565,53,2290,73,2192,86,2136,100,2108,119,2084,143,2050,192,2046,189,2080,140,2104,115,2133,96,2191,80,2289,67,2565,48,2872,35,3120,28"/>
+<area shape="rect" id="Node000018" href="$stm32f4xx__hal__exti_8h.html" title="Header file of EXTI HAL module." alt="" coords="2147,191,2317,235"/>
+<area shape="poly" id="edge29_Node000001_Node000018" title=" " alt="" coords="3121,34,2864,43,2550,57,2279,77,2190,88,2164,94,2151,100,2144,110,2143,121,2153,145,2174,168,2200,188,2196,192,2171,172,2148,148,2138,122,2139,109,2147,96,2162,89,2189,83,2278,71,2549,52,2864,38,3121,29"/>
+<area shape="rect" id="Node000019" href="$stm32f4xx__hal__flash_8h.html" title="Header file of FLASH HAL module." alt="" coords="2341,191,2512,235"/>
+<area shape="poly" id="edge31_Node000001_Node000019" title=" " alt="" coords="3120,35,2867,43,2558,58,2291,77,2204,88,2178,94,2166,100,2159,110,2157,120,2159,130,2165,141,2227,161,2342,189,2340,194,2226,166,2162,145,2154,132,2152,120,2154,108,2162,96,2176,89,2203,83,2290,72,2557,52,2866,38,3120,29"/>
+<area shape="rect" id="Node000020" href="$stm32f4xx__hal__flash__ex_8h.html" title="Header file of FLASH HAL Extension module." alt="" coords="2176,98,2346,143"/>
+<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="3121,36,2785,57,2576,75,2366,101,2347,104,2346,98,2365,95,2575,70,2785,51,3121,31"/>
+<area shape="rect" id="Node000021" href="$stm32f4xx__hal__gpio_8h.html" title="Header file of GPIO HAL module." alt="" coords="2536,191,2706,235"/>
+<area shape="poly" id="edge35_Node000001_Node000021" title=" " alt="" coords="3121,33,2929,38,2705,49,2601,57,2512,69,2446,83,2424,91,2411,100,2404,110,2402,120,2411,141,2426,150,2457,162,2540,188,2539,193,2456,167,2424,155,2407,144,2397,120,2399,108,2407,96,2421,86,2444,78,2511,64,2600,52,2705,43,2929,32,3120,27"/>
+<area shape="rect" id="Node000022" href="$stm32f4xx__hal__gpio__ex_8h.html" title="Header file of GPIO HAL Extension module." alt="" coords="2421,98,2592,143"/>
+<area shape="poly" id="edge37_Node000001_Node000022" title=" " alt="" coords="3121,40,2887,64,2611,101,2593,104,2592,98,2610,95,2887,59,3120,35"/>
+<area shape="rect" id="Node000023" href="$stm32f4xx__hal__hash_8h.html" title="Header file of HASH HAL module." alt="" coords="2731,191,2901,235"/>
+<area shape="poly" id="edge39_Node000001_Node000023" title=" " alt="" coords="3121,37,2987,46,2841,59,2719,77,2678,88,2656,100,2648,113,2648,126,2654,138,2665,149,2700,170,2742,188,2740,193,2697,175,2662,153,2649,141,2643,127,2643,112,2653,96,2676,83,2718,72,2841,54,2987,40,3120,31"/>
+<area shape="rect" id="Node000024" href="$stm32f4xx__hal__hash__ex_8h.html" title="Header file of HASH HAL module." alt="" coords="2667,98,2837,143"/>
+<area shape="poly" id="edge41_Node000001_Node000024" title=" " alt="" coords="3121,50,2856,101,2838,104,2837,99,2855,95,3120,45"/>
+<area shape="rect" id="Node000025" href="$stm32f4xx__hal__i2c_8h.html" title="Header file of I2C HAL module." alt="" coords="2925,191,3096,235"/>
+<area shape="poly" id="edge42_Node000001_Node000025" title=" " alt="" coords="3121,43,3065,52,3010,65,2965,81,2938,100,2932,111,2931,122,2940,146,2959,169,2982,188,2978,192,2955,172,2935,148,2926,122,2927,109,2934,96,2963,76,3009,60,3064,47,3120,38"/>
+<area shape="rect" id="Node000026" href="$stm32f4xx__hal__i2s_8h.html" title="Header file of I2S HAL module." alt="" coords="3120,191,3290,235"/>
+<area shape="poly" id="edge44_Node000001_Node000026" title=" " alt="" coords="3121,44,3019,66,2978,82,2952,100,2946,110,2944,120,2946,130,2952,141,3011,160,3120,188,3119,194,3009,165,2949,145,2941,132,2939,120,2941,108,2949,96,2975,77,3017,61,3120,39"/>
+<area shape="rect" id="Node000027" href="$stm32f4xx__hal__i2s__ex_8h.html" title="Header file of I2S HAL module." alt="" coords="2963,98,3133,143"/>
+<area shape="poly" id="edge46_Node000001_Node000027" title=" " alt="" coords="3167,60,3090,100,3088,95,3165,55"/>
+<area shape="rect" id="Node000028" href="$stm32f4xx__hal__irda_8h.html" title="Header file of IRDA HAL module." alt="" coords="3315,191,3485,235"/>
+<area shape="poly" id="edge48_Node000001_Node000028" title=" " alt="" coords="3206,65,3196,104,3197,124,3205,141,3221,155,3247,168,3315,190,3314,195,3245,172,3218,159,3200,144,3192,125,3190,104,3200,64"/>
+<area shape="rect" id="Node000029" href="$stm32f4xx__hal__iwdg_8h.html" title="Header file of IWDG HAL module." alt="" coords="3509,191,3680,235"/>
+<area shape="poly" id="edge50_Node000001_Node000029" title=" " alt="" coords="3224,65,3233,105,3242,124,3255,141,3284,163,3311,176,3338,182,3365,184,3425,182,3459,183,3498,188,3510,191,3509,196,3497,193,3459,188,3425,187,3365,189,3337,188,3309,181,3281,168,3251,145,3237,127,3228,107,3219,66"/>
+<area shape="rect" id="Node000030" href="$stm32f4xx__hal__lptim_8h.html" title="Header file of LPTIM HAL module." alt="" coords="3704,191,3874,235"/>
+<area shape="poly" id="edge52_Node000001_Node000030" title=" " alt="" coords="3239,62,3266,105,3284,124,3305,140,3357,166,3404,181,3447,186,3490,186,3580,181,3632,181,3692,188,3704,190,3703,195,3691,193,3632,187,3580,186,3490,192,3447,192,3403,186,3355,171,3302,145,3281,128,3262,108,3235,65"/>
+<area shape="rect" id="Node000031" href="$stm32f4xx__hal__ltdc_8h.html" title="Header file of LTDC HAL module." alt="" coords="3899,191,4069,235"/>
+<area shape="poly" id="edge54_Node000001_Node000031" title=" " alt="" coords="3259,58,3302,96,3324,121,3334,131,3349,140,3398,155,3462,166,3614,176,3768,180,3887,188,3899,190,3898,195,3886,193,3768,185,3614,181,3461,171,3397,161,3347,145,3331,136,3320,125,3298,100,3256,62"/>
+<area shape="rect" id="Node000032" href="$stm32f4xx__hal__ltdc__ex_8h.html" title="Header file of LTDC HAL Extension module." alt="" coords="3360,98,3530,143"/>
+<area shape="poly" id="edge56_Node000001_Node000032" title=" " alt="" coords="3290,54,3393,95,3391,100,3288,59"/>
+<area shape="rect" id="Node000033" href="$stm32f4xx__hal__pcd__ex_8h.html" title="Header file of PCD HAL Extension module." alt="" coords="3555,98,3725,143"/>
+<area shape="poly" id="edge57_Node000001_Node000033" title=" " alt="" coords="3322,48,3543,95,3555,98,3554,103,3542,101,3321,53"/>
+<area shape="rect" id="Node000034" href="$stm32f4xx__hal__pwr_8h.html" title="Header file of PWR HAL module." alt="" coords="4093,191,4264,235"/>
+<area shape="poly" id="edge58_Node000001_Node000034" title=" " alt="" coords="3322,33,3551,55,3661,73,3705,84,3738,96,3755,106,3765,118,3774,130,3789,140,3830,157,3866,168,3931,176,3998,178,4082,188,4094,190,4093,196,4081,193,3997,183,3930,181,3865,173,3829,162,3787,145,3771,134,3761,122,3751,110,3736,100,3703,89,3660,78,3551,61,3322,38"/>
+<area shape="rect" id="Node000035" href="$stm32f4xx__hal__pwr__ex_8h.html" title="Header file of PWR HAL Extension module." alt="" coords="3800,98,3970,143"/>
+<area shape="poly" id="edge60_Node000001_Node000035" title=" " alt="" coords="3322,36,3534,61,3782,95,3800,99,3799,104,3781,101,3533,66,3322,42"/>
+<area shape="rect" id="Node000036" href="$stm32f4xx__hal__qspi_8h.html" title="Header file of QSPI HAL module." alt="" coords="4288,191,4458,235"/>
+<area shape="poly" id="edge62_Node000001_Node000036" title=" " alt="" coords="3322,28,3484,34,3675,46,3855,66,3928,79,3984,96,4002,106,4013,118,4024,130,4041,140,4104,163,4155,173,4209,178,4276,188,4288,191,4287,196,4275,193,4208,183,4155,178,4102,169,4039,145,4021,134,4010,122,3998,110,3981,100,3927,85,3854,71,3675,52,3483,40,3321,34"/>
+<area shape="rect" id="Node000037" href="$stm32f4xx__hal__rcc_8h.html" title="Header file of RCC HAL module." alt="" coords="4483,191,4653,235"/>
+<area shape="poly" id="edge64_Node000001_Node000037" title=" " alt="" coords="3322,27,3494,32,3700,43,3894,63,3972,78,4032,96,4049,106,4059,118,4069,130,4085,140,4140,161,4188,173,4231,178,4273,179,4360,178,4412,180,4471,188,4483,190,4482,195,4470,193,4411,186,4360,183,4273,184,4231,183,4187,178,4138,166,4083,145,4066,134,4055,122,4045,110,4029,100,3971,83,3893,69,3699,48,3494,37,3322,33"/>
+<area shape="rect" id="Node000038" href="$stm32f4xx__hal__rcc__ex_8h.html" title="Header file of RCC HAL Extension module." alt="" coords="4096,98,4266,143"/>
+<area shape="poly" id="edge66_Node000001_Node000038" title=" " alt="" coords="3322,31,3658,51,3867,70,4078,95,4096,98,4095,104,4077,101,3867,75,3657,57,3321,36"/>
+<area shape="rect" id="Node000039" href="$stm32f4xx__hal__rng_8h.html" title="Header file of RNG HAL module." alt="" coords="4291,98,4461,143"/>
+<area shape="poly" id="edge68_Node000001_Node000039" title=" " alt="" coords="3322,28,3502,33,3740,45,4008,65,4279,95,4291,97,4290,102,4278,101,4008,70,3740,50,3502,39,3322,33"/>
+<area shape="rect" id="Node000040" href="$stm32f4xx__hal__rtc_8h.html" title="Header file of RTC HAL module." alt="" coords="4728,191,4898,235"/>
+<area shape="poly" id="edge70_Node000001_Node000040" title=" " alt="" coords="3322,28,3605,35,3963,48,4288,67,4405,80,4474,96,4491,106,4501,118,4510,130,4525,140,4561,154,4612,168,4728,193,4727,199,4611,173,4559,159,4523,145,4507,133,4497,121,4487,110,4472,100,4404,86,4288,73,3962,53,3604,40,3322,33"/>
+<area shape="rect" id="Node000041" href="$stm32f4xx__hal__rtc__ex_8h.html" title="Header file of RTC HAL Extended module." alt="" coords="4536,98,4706,143"/>
+<area shape="poly" id="edge72_Node000001_Node000041" title=" " alt="" coords="3322,27,3539,30,3836,41,4175,61,4348,76,4518,95,4536,98,4535,103,4517,101,4347,82,4174,66,3835,46,3539,36,3322,32"/>
+<area shape="rect" id="Node000042" href="$stm32f4xx__hal__sai_8h.html" title="Header file of SAI HAL module." alt="" coords="4731,98,4901,143"/>
+<area shape="poly" id="edge74_Node000001_Node000042" title=" " alt="" coords="3322,29,4027,52,4427,71,4593,83,4719,95,4731,97,4730,102,4718,101,4592,88,4426,76,4027,57,3322,34"/>
+<area shape="rect" id="Node000043" href="$stm32f4xx__hal__sai__ex_8h.html" title="Header file of SAI Extension HAL module." alt="" coords="4925,98,5096,143"/>
+<area shape="poly" id="edge76_Node000001_Node000043" title=" " alt="" coords="3322,28,4119,49,4578,69,4769,81,4913,95,4926,97,4925,102,4913,101,4768,87,4577,74,4119,55,3321,33"/>
+<area shape="rect" id="Node000044" href="$stm32f4xx__hal__smartcard_8h.html" title="Header file of SMARTCARD HAL module." alt="" coords="5120,98,5290,143"/>
+<area shape="poly" id="edge77_Node000001_Node000044" title=" " alt="" coords="3322,28,3695,34,4211,47,4729,67,4945,80,5108,95,5120,97,5119,102,5108,101,4944,85,4728,72,4210,52,3695,39,3322,33"/>
+<area shape="rect" id="Node000045" href="$stm32f4xx__hal__smbus_8h.html" title="Header file of SMBUS HAL module." alt="" coords="5315,98,5485,143"/>
+<area shape="poly" id="edge79_Node000001_Node000045" title=" " alt="" coords="3322,27,3729,33,4301,45,4879,65,5120,79,5303,95,5315,97,5314,102,5302,101,5120,84,4879,70,4301,50,3729,38,3322,33"/>
+<area shape="rect" id="Node000046" href="$stm32f4xx__hal__spdifrx_8h.html" title="Header file of SPDIFRX HAL module." alt="" coords="5509,98,5680,143"/>
+<area shape="poly" id="edge81_Node000001_Node000046" title=" " alt="" coords="3322,27,3763,31,4392,42,5030,63,5296,77,5497,95,5510,97,5509,102,5497,101,5296,83,5030,68,4392,48,3763,37,3322,32"/>
+<area shape="rect" id="Node000047" href="$stm32f4xx__hal__spi_8h.html" title="Header file of SPI HAL module." alt="" coords="5704,98,5874,143"/>
+<area shape="poly" id="edge83_Node000001_Node000047" title=" " alt="" coords="3322,27,3796,30,4482,40,4842,49,5180,61,5472,76,5692,95,5704,97,5703,102,5692,101,5471,81,5180,66,4841,54,4482,46,3796,35,3322,32"/>
+<area shape="rect" id="Node000048" href="$stm32f4xx__hal__tim_8h.html" title="Header file of TIM HAL module." alt="" coords="5827,191,5997,235"/>
+<area shape="poly" id="edge85_Node000001_Node000048" title=" " alt="" coords="3322,27,3918,34,4765,47,5532,68,5782,81,5855,88,5888,96,5905,117,5914,142,5917,190,5911,190,5908,143,5900,119,5885,100,5854,93,5781,86,5532,73,4765,53,3918,39,3322,33"/>
+<area shape="rect" id="Node000049" href="$stm32f4xx__hal__tim__ex_8h.html" title="Header file of TIM HAL Extended module." alt="" coords="5949,98,6120,143"/>
+<area shape="poly" id="edge87_Node000001_Node000049" title=" " alt="" coords="3322,27,3837,30,4592,39,4990,48,5364,60,5687,76,5931,95,5949,98,5949,103,5930,101,5687,81,5364,65,4989,53,4592,45,3837,35,3322,32"/>
+<area shape="rect" id="Node000050" href="$stm32f4xx__hal__uart_8h.html" title="Header file of UART HAL module." alt="" coords="6144,98,6314,143"/>
+<area shape="poly" id="edge89_Node000001_Node000050" title=" " alt="" coords="3322,26,3871,27,4684,36,5114,44,5519,56,5869,73,6132,95,6144,97,6144,102,6132,101,5868,79,5519,62,5114,49,4684,41,3871,33,3322,32"/>
+<area shape="rect" id="Node000051" href="$stm32f4xx__hal__usart_8h.html" title="Header file of USART HAL module." alt="" coords="6339,98,6509,143"/>
+<area shape="poly" id="edge91_Node000001_Node000051" title=" " alt="" coords="3322,26,3903,26,4773,34,5234,42,5669,54,6044,72,6327,95,6338,97,6338,102,6326,101,6044,77,5669,60,5234,47,4773,39,3903,32,3322,31"/>
+<area shape="rect" id="Node000052" href="$stm32f4xx__hal__wwdg_8h.html" title="Header file of WWDG HAL module." alt="" coords="6533,98,6704,143"/>
+<area shape="poly" id="edge93_Node000001_Node000052" title=" " alt="" coords="3322,26,3935,25,4862,32,5354,40,5818,52,6219,71,6385,82,6521,95,6533,97,6532,102,6521,101,6384,87,6219,76,5818,58,5354,45,4862,37,3935,31,3322,31"/>
+<area shape="rect" id="Node000053" href="$stm32f4xx__ll__fmc_8h.html" title="Header file of FMC HAL module." alt="" coords="6728,98,6898,143"/>
+<area shape="poly" id="edge95_Node000001_Node000053" title=" " alt="" coords="3322,27,4031,34,5091,48,6116,68,6493,81,6716,95,6728,97,6727,102,6716,101,6493,86,6116,74,5091,53,4030,39,3322,32"/>
+<area shape="rect" id="Node000054" href="$stm32f4xx__ll__fsmc_8h.html" title="Header file of FSMC HAL module." alt="" coords="6923,98,7093,143"/>
+<area shape="poly" id="edge96_Node000001_Node000054" title=" " alt="" coords="3322,27,4065,33,5187,47,6274,67,6674,80,6911,95,6922,97,6922,102,6910,101,6674,86,6274,73,5187,52,4065,39,3322,32"/>
+<area shape="rect" id="Node000055" href="$stm32f4xx__ll__usb_8h.html" title="Header file of USB Low Layer HAL module." alt="" coords="7117,98,7288,143"/>
+<area shape="poly" id="edge97_Node000001_Node000055" title=" " alt="" coords="3322,27,4100,33,5284,46,6432,66,6856,80,7105,95,7117,97,7116,102,7105,101,6855,85,6432,72,5284,51,4100,38,3322,32"/>
+<area shape="rect" id="Node000003" href="$stm32f4xx__hal__conf__template_8h.html" title="HAL configuration template file. This file should be copied to the application folder and renamed to ..." alt="" coords="3509,283,3680,328"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,233,429,247,810,260,1817,280,2840,294,3509,301,3509,306,2840,299,1817,286,810,265,429,252,191,238"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="270,151,152,193,150,188,268,146"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="386,233,525,246,691,257,1090,275,1547,288,2029,296,2927,302,3509,302,3509,307,2927,308,2029,301,1547,293,1089,280,691,262,524,251,386,238"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="580,233,866,256,1239,273,1666,285,2117,294,2959,301,3509,302,3509,307,2959,307,2117,299,1666,291,1238,278,866,261,580,238"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="775,233,1042,255,1389,271,1786,283,2206,292,2991,300,3509,302,3509,307,2991,306,2206,297,1786,289,1388,276,1041,260,775,238"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="970,233,1217,253,1538,269,1906,281,2294,290,3023,299,3509,302,3509,307,3023,304,2294,295,1906,287,1538,275,1217,259,969,238"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="1164,233,1392,252,1688,267,2383,288,3055,298,3509,301,3509,307,3055,303,2383,293,1688,273,1392,257,1164,238"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="1359,233,1568,251,1838,265,2473,286,3089,297,3509,301,3509,306,3089,302,2473,291,1838,271,1568,256,1359,238"/>
+<area shape="poly" id="edge20_Node000013_Node000003" title=" " alt="" coords="1554,233,1743,249,1987,263,2562,284,3121,295,3509,301,3509,306,3121,301,2562,289,1987,269,1743,255,1553,238"/>
+<area shape="poly" id="edge22_Node000014_Node000003" title=" " alt="" coords="1749,233,1919,248,2138,261,2652,281,3155,294,3509,300,3509,306,3155,299,2652,287,2138,267,1919,254,1748,238"/>
+<area shape="poly" id="edge24_Node000015_Node000013" title=" " alt="" coords="1713,149,1540,193,1538,188,1712,144"/>
+<area shape="poly" id="edge26_Node000016_Node000003" title=" " alt="" coords="1943,233,2094,247,2288,259,2743,279,3509,300,3509,305,2743,285,2288,265,2094,252,1943,238"/>
+<area shape="poly" id="edge28_Node000017_Node000003" title=" " alt="" coords="2138,233,2339,255,2543,272,2937,294,3275,302,3509,303,3509,308,3274,307,2937,299,2543,278,2339,261,2137,238"/>
+<area shape="poly" id="edge30_Node000018_Node000003" title=" " alt="" coords="2332,233,2503,253,2677,268,3013,289,3303,299,3509,302,3509,307,3303,304,3013,294,2677,274,2503,258,2331,238"/>
+<area shape="poly" id="edge32_Node000019_Node000003" title=" " alt="" coords="2527,233,2812,264,3090,284,3332,296,3509,300,3509,306,3332,301,3090,290,2812,270,2526,238"/>
+<area shape="poly" id="edge34_Node000020_Node000019" title=" " alt="" coords="2316,148,2388,188,2386,193,2313,153"/>
+<area shape="poly" id="edge36_Node000021_Node000003" title=" " alt="" coords="2722,233,2948,260,3169,279,3509,299,3509,304,3168,285,2948,266,2721,238"/>
+<area shape="poly" id="edge38_Node000022_Node000021" title=" " alt="" coords="2547,150,2595,188,2592,192,2544,154"/>
+<area shape="poly" id="edge40_Node000023_Node000003" title=" " alt="" coords="2916,233,3084,256,3248,274,3509,296,3509,301,3248,279,3084,261,2915,238"/>
+<area shape="poly" id="edge43_Node000025_Node000003" title=" " alt="" coords="3111,233,3330,268,3509,291,3509,297,3329,273,3110,238"/>
+<area shape="poly" id="edge45_Node000026_Node000003" title=" " alt="" coords="3306,235,3510,282,3508,287,3305,240"/>
+<area shape="poly" id="edge47_Node000027_Node000026" title=" " alt="" coords="3100,148,3169,188,3166,193,3097,153"/>
+<area shape="poly" id="edge49_Node000028_Node000003" title=" " alt="" coords="3461,240,3549,280,3547,285,3459,245"/>
+<area shape="poly" id="edge51_Node000029_Node000003" title=" " alt="" coords="3597,251,3597,283,3592,283,3592,251"/>
+<area shape="poly" id="edge53_Node000030_Node000003" title=" " alt="" coords="3730,245,3642,285,3640,280,3728,240"/>
+<area shape="poly" id="edge55_Node000031_Node000003" title=" " alt="" coords="3884,240,3681,287,3679,282,3883,235"/>
+<area shape="poly" id="edge59_Node000034_Node000003" title=" " alt="" coords="4079,238,3860,273,3680,297,3680,291,3859,268,4078,233"/>
+<area shape="poly" id="edge61_Node000035_Node000034" title=" " alt="" coords="3971,145,4109,188,4108,193,3969,150"/>
+<area shape="poly" id="edge63_Node000036_Node000003" title=" " alt="" coords="4274,238,4105,261,3941,279,3680,301,3680,296,3941,274,4105,256,4273,233"/>
+<area shape="poly" id="edge65_Node000037_Node000003" title=" " alt="" coords="4468,238,4241,266,4021,285,3680,304,3680,299,4020,279,4241,260,4467,233"/>
+<area shape="poly" id="edge67_Node000038_Node000037" title=" " alt="" coords="4282,142,4483,189,4482,194,4281,148"/>
+<area shape="poly" id="edge69_Node000039_Node000003" title=" " alt="" coords="4477,140,4600,168,4645,180,4667,189,4675,201,4678,213,4675,225,4667,237,4652,244,4624,251,4532,262,4253,282,3934,296,3680,305,3680,299,3934,291,4253,277,4532,257,4623,246,4650,239,4663,233,4670,223,4672,213,4670,203,4663,193,4644,185,4598,173,4476,145"/>
+<area shape="poly" id="edge71_Node000040_Node000003" title=" " alt="" coords="4713,238,4709,238,4414,269,4122,289,3866,301,3680,306,3680,300,3866,295,4122,284,4414,264,4709,233,4712,232"/>
+<area shape="poly" id="edge73_Node000041_Node000040" title=" " alt="" coords="4682,147,4769,188,4766,193,4680,152"/>
+<area shape="poly" id="edge75_Node000042_Node000003" title=" " alt="" coords="4869,149,4894,169,4914,191,4922,214,4920,226,4912,237,4894,246,4858,254,4741,267,4578,278,4387,287,3987,299,3680,306,3680,300,3987,294,4386,282,4578,272,4740,261,4857,248,4892,241,4909,233,4915,224,4917,214,4909,193,4891,173,4866,154"/>
+<area shape="poly" id="edge78_Node000044_Node000003" title=" " alt="" coords="5154,153,5054,199,4994,221,4934,238,4821,256,4672,271,4313,292,3950,302,3680,306,3680,301,3950,297,4312,286,4672,266,4821,251,4933,233,4993,216,5052,194,5151,148"/>
+<area shape="poly" id="edge80_Node000045_Node000003" title=" " alt="" coords="5330,151,5187,197,5103,220,5018,238,4896,253,4736,266,4351,286,3965,299,3680,306,3680,300,3965,294,4351,281,4736,261,4896,248,5017,233,5102,215,5186,192,5328,146"/>
+<area shape="poly" id="edge82_Node000046_Node000003" title=" " alt="" coords="5510,150,5335,197,5231,220,5127,238,4995,252,4821,265,4402,285,3984,298,3680,305,3680,300,3984,293,4402,279,4820,259,4994,247,5126,233,5230,215,5333,192,5509,145"/>
+<area shape="poly" id="edge84_Node000047_Node000003" title=" " alt="" coords="5694,150,5493,197,5374,220,5255,238,5110,252,4920,264,4462,284,3680,305,3680,300,4462,279,4919,259,5110,246,5254,233,5373,214,5492,191,5693,144"/>
+<area shape="poly" id="edge86_Node000048_Node000003" title=" " alt="" coords="5811,227,5669,238,5073,267,4492,288,3680,306,3680,300,4492,282,5073,262,5669,233,5811,222"/>
+<area shape="poly" id="edge88_Node000049_Node000048" title=" " alt="" coords="5995,154,5943,192,5940,188,5992,150"/>
+<area shape="poly" id="edge90_Node000050_Node000003" title=" " alt="" coords="6187,154,6108,200,6060,221,6010,238,5950,248,5860,258,5606,274,5278,285,4910,294,4182,304,3680,307,3680,301,4182,299,4910,289,5278,280,5605,268,5860,253,5949,243,6009,233,6058,216,6105,195,6185,149"/>
+<area shape="poly" id="edge92_Node000051_Node000003" title=" " alt="" coords="6361,151,6234,198,6158,221,6082,238,5926,253,5662,266,4944,286,4194,300,3680,306,3680,301,4194,294,4944,281,5662,260,5926,248,6081,233,6157,216,6232,193,6359,146"/>
+<area shape="poly" id="edge94_Node000052_Node000003" title=" " alt="" coords="6541,150,6377,198,6279,221,6182,238,5947,261,5635,279,5274,291,4890,300,4166,307,3680,307,3680,302,4166,302,4890,294,5273,286,5635,273,5946,256,6181,233,6278,215,6375,193,6539,145"/>
+<area shape="rect" id="Node000056" href="$stm32f4xx__hal__hcd_8h.html" title="Header file of HCD HAL module." alt="" coords="6723,191,6893,235"/>
+<area shape="poly" id="edge98_Node000055_Node000056" title=" " alt="" coords="7103,147,6894,195,6893,189,7102,142"/>
+<area shape="rect" id="Node000057" href="$stm32f4xx__hal__pcd_8h.html" title="Header file of PCD HAL module." alt="" coords="7017,191,7188,235"/>
+<area shape="poly" id="edge100_Node000055_Node000057" title=" " alt="" coords="7169,155,7128,192,7125,188,7166,151"/>
+<area shape="poly" id="edge99_Node000056_Node000003" title=" " alt="" coords="6707,225,6504,238,5641,270,4805,291,4112,302,3680,306,3680,301,4112,296,4805,285,5641,265,6504,233,6707,220"/>
+<area shape="poly" id="edge101_Node000057_Node000003" title=" " alt="" coords="7002,229,6905,238,6597,253,6189,266,5217,286,3680,306,3680,301,5217,281,6189,260,6597,247,6905,233,7002,224"/>
+</map>

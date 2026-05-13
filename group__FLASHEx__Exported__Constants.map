@@ -1,0 +1,22 @@
+<map id="FLASH Exported Constants" name="FLASH Exported Constants">
+<area shape="rect" id="Node000002" href="$group__FLASHEx.html" title="FLASH HAL Extension module driver." alt="" coords="5,516,81,544"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,516,313,544"/>
+<area shape="rect" id="Node000012" href="$group__FLASHEx__Advanced__Option__Type.html" title=" " alt="" coords="372,5,572,33"/>
+<area shape="rect" id="Node000011" href="$group__FLASHEx__BOR__Reset__Level.html" title=" " alt="" coords="392,57,552,85"/>
+<area shape="rect" id="Node000014" href="$group__FLASHEx__Banks.html" title=" " alt="" coords="422,109,522,137"/>
+<area shape="rect" id="Node000019" href="$group__FLASHEx__Dual__Boot.html" title=" " alt="" coords="410,161,534,189"/>
+<area shape="rect" id="Node000015" href="$group__FLASHEx__MassErase__bit.html" title=" " alt="" coords="398,213,547,241"/>
+<area shape="rect" id="Node000008" href="$group__FLASHEx__Option__Bytes__IWatchdog.html" title=" " alt="" coords="402,265,543,310"/>
+<area shape="rect" id="Node000018" href="$group__FLASHEx__Option__Bytes__PC__ReadWrite__Protection.html" title=" " alt="" coords="386,334,559,379"/>
+<area shape="rect" id="Node000007" href="$group__FLASHEx__Option__Bytes__Read__Protection.html" title=" " alt="" coords="402,404,543,448"/>
+<area shape="rect" id="Node000017" href="$group__FLASHEx__Option__Bytes__Write__Protection.html" title=" " alt="" coords="402,473,543,518"/>
+<area shape="rect" id="Node000010" href="$group__FLASHEx__Option__Bytes__nRST__STDBY.html" title=" " alt="" coords="402,542,543,587"/>
+<area shape="rect" id="Node000009" href="$group__FLASHEx__Option__Bytes__nRST__STOP.html" title=" " alt="" coords="402,612,543,656"/>
+<area shape="rect" id="Node000006" href="$group__FLASHEx__Option__Type.html" title=" " alt="" coords="403,680,541,708"/>
+<area shape="rect" id="Node000016" href="$group__FLASHEx__Sectors.html" title=" " alt="" coords="418,732,526,760"/>
+<area shape="rect" id="Node000020" href="$group__FLASHEx__Selection__Protection__Mode.html" title=" " alt="" coords="361,784,583,812"/>
+<area shape="rect" id="Node000003" href="$group__FLASHEx__Type__Erase.html" title=" " alt="" coords="408,836,537,864"/>
+<area shape="rect" id="Node000004" href="$group__FLASHEx__Voltage__Range.html" title=" " alt="" coords="396,888,548,916"/>
+<area shape="rect" id="Node000005" href="$group__FLASHEx__WRP__State.html" title=" " alt="" coords="408,940,536,968"/>
+<area shape="rect" id="Node000013" href="$group__FLASH__Latency.html" title=" " alt="" coords="417,992,527,1020"/>
+</map>

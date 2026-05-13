@@ -1,0 +1,13 @@
+<map id="LL_PLL_ConfigSystemClock_HSI" name="LL_PLL_ConfigSystemClock_HSI">
+<area shape="rect" id="Node000001" title="This function configures system clock at maximum frequency with HSI as clock source of the PLL." alt="" coords="5,91,223,118"/>
+<area shape="rect" id="Node000002" href="$group__UTILS__LL__Private__Functions.html#ga320bd51e9a0bfdf2fa1da4a24bb05fc0" title="Function to enable PLL and switch system clock to PLL." alt="" coords="281,22,472,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,88,266,67,267,72,178,93"/>
+<area shape="rect" id="Node000005" href="$group__UTILS__LL__Private__Functions.html#gae40ed31572a8b64837e7f6d8eda0f4e2" title="Function to check that PLL can be modified." alt="" coords="271,91,482,118"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="223,102,255,102,255,107,223,107"/>
+<area shape="rect" id="Node000006" href="$group__UTILS__LL__Private__Functions.html#ga4242342336a76627fc39a7e145dbf3c7" title="Function to check that PLL can be modified." alt="" coords="312,143,441,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,116,297,138,296,143,187,122"/>
+<area shape="rect" id="Node000003" href="$group__UTILS__EF__SYSTEM.html#ga74f71dc4b93a3b99e5f9e042e85e2ce5" title="Update number of Flash wait states in line with new frequency and current voltage range." alt="" coords="544,5,684,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,32,528,26,528,31,472,37"/>
+<area shape="rect" id="Node000004" href="$group__UTILS__EF__SYSTEM.html#ga5af902d59c4c2d9dc5e189df0bc71ecd" title="This function sets directly SystemCoreClock CMSIS variable." alt="" coords="530,57,697,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="472,53,515,57,514,63,472,58"/>
+</map>

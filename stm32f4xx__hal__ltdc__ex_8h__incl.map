@@ -1,0 +1,11 @@
+<map id="hal&#45;driver/Inc/stm32f4xx_hal_ltdc_ex.h" name="hal&#45;driver/Inc/stm32f4xx_hal_ltdc_ex.h">
+<area shape="rect" id="Node000001" title="Header file of LTDC HAL Extension module." alt="" coords="131,5,302,50"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="143,98,290,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,50,219,82,214,82,214,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,174,100,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,129,96,170,94,165,186,124"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,174,310,201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,126,219,158,214,158,214,126"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="334,174,406,201"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,124,330,164,328,169,243,129"/>
+</map>

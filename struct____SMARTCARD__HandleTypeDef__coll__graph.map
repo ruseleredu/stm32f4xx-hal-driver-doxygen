@@ -1,0 +1,9 @@
+<map id="__SMARTCARD_HandleTypeDef" name="__SMARTCARD_HandleTypeDef">
+<area shape="rect" id="Node000001" title="SMARTCARD handle Structure definition." alt="" coords="49,229,261,257"/>
+<area shape="rect" id="Node000002" href="$structSMARTCARD__InitTypeDef.html" title="SMARTCARD Init Structure definition." alt="" coords="5,106,180,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,146,151,227,146,230,104,149"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="204,106,368,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,146,171,230,168,226,259,142"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="223,5,349,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,49,288,105,283,105,283,49"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="I2S" name="I2S">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,109,256,137"/>
+<area shape="rect" id="Node000004" href="$group__I2S__Exported__Constants.html" title=" " alt="" coords="306,5,469,33"/>
+<area shape="rect" id="Node000007" href="$group__I2S__Exported__Functions.html" title=" " alt="" coords="304,57,471,85"/>
+<area shape="rect" id="Node000003" href="$group__I2S__Exported__Types.html" title=" " alt="" coords="320,109,455,137"/>
+<area shape="rect" id="Node000005" href="$group__I2S__Exported__macros.html" title=" " alt="" coords="316,161,459,189"/>
+<area shape="rect" id="Node000006" href="$group__I2S__Private__Macros.html" title=" " alt="" coords="323,213,452,241"/>
+<area shape="rect" id="Node000002" href="$group__STM32F4xx__HAL__Driver.html" title=" " alt="" coords="5,109,169,137"/>
+</map>

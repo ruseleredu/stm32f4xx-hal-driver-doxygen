@@ -1,0 +1,14 @@
+<map id="TIM Exported Functions" name="TIM Exported Functions">
+<area shape="rect" id="Node000002" href="$group__TIM.html" title="TIM HAL module driver." alt="" coords="5,273,50,301"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,273,262,301"/>
+<area shape="rect" id="Node000006" href="$group__TIM__Exported__Functions__Group1.html" title="Time Base functions." alt="" coords="328,5,495,33"/>
+<area shape="rect" id="Node000005" href="$group__TIM__Exported__Functions__Group10.html" title="Peripheral State functions." alt="" coords="340,57,483,102"/>
+<area shape="rect" id="Node000007" href="$group__TIM__Exported__Functions__Group2.html" title="TIM Output Compare functions." alt="" coords="338,126,486,171"/>
+<area shape="rect" id="Node000008" href="$group__TIM__Exported__Functions__Group3.html" title="TIM PWM functions." alt="" coords="342,195,481,222"/>
+<area shape="rect" id="Node000009" href="$group__TIM__Exported__Functions__Group4.html" title="TIM Input Capture functions." alt="" coords="317,247,506,274"/>
+<area shape="rect" id="Node000010" href="$group__TIM__Exported__Functions__Group5.html" title="TIM One Pulse functions." alt="" coords="328,299,495,326"/>
+<area shape="rect" id="Node000011" href="$group__TIM__Exported__Functions__Group6.html" title="TIM Encoder functions." alt="" coords="334,351,490,378"/>
+<area shape="rect" id="Node000012" href="$group__TIM__Exported__Functions__Group7.html" title="IRQ handler management." alt="" coords="310,403,513,430"/>
+<area shape="rect" id="Node000003" href="$group__TIM__Exported__Functions__Group8.html" title="Peripheral Control functions." alt="" coords="332,454,491,499"/>
+<area shape="rect" id="Node000004" href="$group__TIM__Exported__Functions__Group9.html" title="TIM Callbacks functions." alt="" coords="330,523,494,550"/>
+</map>

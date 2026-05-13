@@ -1,0 +1,7 @@
+<map id="hal&#45;driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c" name="hal&#45;driver/Src/stm32f4xx_hal_timebase_rtc_alarm_template.c">
+<area shape="rect" id="Node000001" title="HAL time base based on the hardware RTC_ALARM Template." alt="" coords="5,5,180,67"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal_8h.html" title="This file contains all the functions prototypes for the HAL module driver." alt="" coords="32,115,153,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,67,95,99,90,99,90,67"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,191,170,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,143,95,175,90,175,90,143"/>
+</map>

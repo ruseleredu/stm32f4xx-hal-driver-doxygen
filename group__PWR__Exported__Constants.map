@@ -1,0 +1,11 @@
+<map id="PWR Exported Constants" name="PWR Exported Constants">
+<area shape="rect" id="Node000002" href="$group__PWR.html" title="PWR HAL module driver." alt="" coords="5,169,56,197"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,169,277,197"/>
+<area shape="rect" id="Node000009" href="$group__PWR__Flag.html" title=" " alt="" coords="370,5,450,33"/>
+<area shape="rect" id="Node000005" href="$group__PWR__PVD__Mode.html" title=" " alt="" coords="352,57,467,85"/>
+<area shape="rect" id="Node000004" href="$group__PWR__PVD__detection__level.html" title=" " alt="" coords="325,109,494,137"/>
+<area shape="rect" id="Node000006" href="$group__PWR__Regulator__state__in__STOP__mode.html" title=" " alt="" coords="334,161,486,206"/>
+<area shape="rect" id="Node000007" href="$group__PWR__SLEEP__mode__entry.html" title=" " alt="" coords="328,229,491,257"/>
+<area shape="rect" id="Node000008" href="$group__PWR__STOP__mode__entry.html" title=" " alt="" coords="330,281,489,309"/>
+<area shape="rect" id="Node000003" href="$group__PWR__WakeUp__Pins.html" title=" " alt="" coords="344,333,476,361"/>
+</map>

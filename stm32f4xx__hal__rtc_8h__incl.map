@@ -1,0 +1,14 @@
+<map id="hal&#45;driver/Inc/stm32f4xx_hal_rtc.h" name="hal&#45;driver/Inc/stm32f4xx_hal_rtc.h">
+<area shape="rect" id="Node000001" title="Header file of RTC HAL module." alt="" coords="131,5,302,50"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="143,174,290,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,52,188,86,184,106,186,125,201,159,196,162,181,126,179,105,183,85,199,49"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__rtc__ex_8h.html" title="Header file of RTC HAL Extended module." alt="" coords="195,98,358,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="234,49,260,84,256,87,230,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,249,100,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,204,96,245,94,240,186,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,249,310,277"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,202,219,234,214,234,214,202"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="334,249,406,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,199,330,240,328,245,243,204"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="268,128,239,163,235,160,264,125"/>
+</map>

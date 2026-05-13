@@ -1,0 +1,7 @@
+<map id="hal&#45;driver/Src/stm32f4xx_hal_dcmi.c" name="hal&#45;driver/Src/stm32f4xx_hal_dcmi.c">
+<area shape="rect" id="Node000001" title="DCMI HAL module driver This file provides firmware functions to manage the following functionalities ..." alt="" coords="5,5,176,50"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal_8h.html" title="This file contains all the functions prototypes for the HAL module driver." alt="" coords="30,98,151,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,50,93,82,88,82,88,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="13,174,168,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,126,93,158,88,158,88,126"/>
+</map>

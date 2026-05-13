@@ -1,0 +1,11 @@
+<map id="TIM" name="TIM">
+<area shape="rect" id="Node000002" href="$group__STM32F4xx__HAL__Driver.html" title=" " alt="" coords="5,161,169,189"/>
+<area shape="rect" id="Node000001" title="TIM HAL module driver." alt="" coords="217,161,261,189"/>
+<area shape="rect" id="Node000004" href="$group__TIM__Exported__Constants.html" title=" " alt="" coords="309,5,476,33"/>
+<area shape="rect" id="Node000009" href="$group__TIM__Exported__Functions.html" title=" " alt="" coords="310,57,475,85"/>
+<area shape="rect" id="Node000005" href="$group__TIM__Exported__Macros.html" title=" " alt="" coords="318,109,467,137"/>
+<area shape="rect" id="Node000003" href="$group__TIM__Exported__Types.html" title=" " alt="" coords="322,161,463,189"/>
+<area shape="rect" id="Node000006" href="$group__TIM__Private__Constants.html" title=" " alt="" coords="316,213,469,241"/>
+<area shape="rect" id="Node000008" href="$group__TIM__Private__Functions.html" title=" " alt="" coords="318,265,468,293"/>
+<area shape="rect" id="Node000007" href="$group__TIM__Private__Macros.html" title=" " alt="" coords="326,317,460,345"/>
+</map>

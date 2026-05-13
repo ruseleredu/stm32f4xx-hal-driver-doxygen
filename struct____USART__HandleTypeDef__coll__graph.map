@@ -1,0 +1,9 @@
+<map id="__USART_HandleTypeDef" name="__USART_HandleTypeDef">
+<area shape="rect" id="Node000001" title="USART handle Structure definition." alt="" coords="16,229,192,257"/>
+<area shape="rect" id="Node000002" href="$structUSART__InitTypeDef.html" title="USART Init Structure definition." alt="" coords="5,106,144,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,148,103,228,98,229,79,150"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="168,106,333,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,146,122,230,118,226,221,142"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="187,5,314,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,49,253,105,248,105,248,49"/>
+</map>

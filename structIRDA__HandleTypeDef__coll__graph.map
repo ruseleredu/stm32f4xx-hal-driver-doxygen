@@ -1,0 +1,9 @@
+<map id="IRDA_HandleTypeDef" name="IRDA_HandleTypeDef">
+<area shape="rect" id="Node000001" title="IRDA handle Structure definition." alt="" coords="49,229,201,257"/>
+<area shape="rect" id="Node000002" href="$structIRDA__InitTypeDef.html" title="IRDA Init Structure definition." alt="" coords="5,106,133,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,147,121,227,116,229,79,149"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="156,106,320,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,147,139,230,135,227,214,143"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="175,5,302,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,49,241,105,236,105,236,49"/>
+</map>

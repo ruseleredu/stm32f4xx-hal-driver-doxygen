@@ -1,0 +1,14 @@
+<map id="hal&#45;driver/Inc/stm32f4xx_hal_dma.h" name="hal&#45;driver/Inc/stm32f4xx_hal_dma.h">
+<area shape="rect" id="Node000001" title="Header file of DMA HAL module." alt="" coords="131,5,302,50"/>
+<area shape="rect" id="Node000002" href="$stm32f4xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="143,174,290,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,52,185,86,181,106,183,125,200,159,195,162,178,126,176,105,180,85,198,49"/>
+<area shape="rect" id="Node000006" href="$stm32f4xx__hal__dma__ex_8h.html" title="Header file of DMA HAL extension module." alt="" coords="192,98,366,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="235,49,262,84,258,87,231,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,249,100,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,204,96,245,94,240,186,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,249,310,277"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,202,219,234,214,234,214,202"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="334,249,406,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,199,330,240,328,245,243,204"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="270,128,239,164,235,160,266,124"/>
+</map>

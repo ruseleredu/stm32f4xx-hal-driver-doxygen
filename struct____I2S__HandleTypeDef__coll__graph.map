@@ -1,0 +1,9 @@
+<map id="__I2S_HandleTypeDef" name="__I2S_HandleTypeDef">
+<area shape="rect" id="Node000001" title="I2S handle Structure definition." alt="" coords="41,229,195,257"/>
+<area shape="rect" id="Node000002" href="$structI2S__InitTypeDef.html" title="I2S Init structure definition." alt="" coords="5,106,122,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,147,115,227,110,229,73,149"/>
+<area shape="rect" id="Node000003" href="$struct____DMA__HandleTypeDef.html" title="DMA handle Structure definition." alt="" coords="145,106,310,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,147,132,230,128,227,204,143"/>
+<area shape="rect" id="Node000004" href="$structDMA__InitTypeDef.html" title="DMA Configuration Structure definition." alt="" coords="164,5,291,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="230,49,230,105,225,105,225,49"/>
+</map>

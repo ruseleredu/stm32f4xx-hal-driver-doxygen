@@ -1,0 +1,16 @@
+<map id="SMBUS Exported Constants" name="SMBUS Exported Constants">
+<area shape="rect" id="Node000002" href="$group__SMBUS.html" title="SMBUS HAL module driver." alt="" coords="5,325,69,353"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,325,303,353"/>
+<area shape="rect" id="Node000004" href="$group__SMBUS__Analog__Filter.html" title=" " alt="" coords="381,5,525,33"/>
+<area shape="rect" id="Node000003" href="$group__SMBUS__Error__Code__definition.html" title="SMBUS Error Code." alt="" coords="387,57,519,85"/>
+<area shape="rect" id="Node000014" href="$group__SMBUS__Flag__definition.html" title=" " alt="" coords="376,109,530,137"/>
+<area shape="rect" id="Node000013" href="$group__SMBUS__Interrupt__configuration__definition.html" title=" " alt="" coords="351,161,555,206"/>
+<area shape="rect" id="Node000011" href="$group__SMBUS__XferDirection__definition.html" title=" " alt="" coords="380,230,526,275"/>
+<area shape="rect" id="Node000012" href="$group__SMBUS__XferOptions__definition.html" title=" " alt="" coords="353,299,553,326"/>
+<area shape="rect" id="Node000005" href="$group__SMBUS__addressing__mode.html" title=" " alt="" coords="368,351,538,378"/>
+<area shape="rect" id="Node000006" href="$group__SMBUS__dual__addressing__mode.html" title=" " alt="" coords="354,403,553,430"/>
+<area shape="rect" id="Node000007" href="$group__SMBUS__general__call__addressing__mode.html" title=" " alt="" coords="385,454,521,499"/>
+<area shape="rect" id="Node000008" href="$group__SMBUS__nostretch__mode.html" title=" " alt="" coords="372,523,534,550"/>
+<area shape="rect" id="Node000009" href="$group__SMBUS__packet__error__check__mode.html" title=" " alt="" coords="384,574,523,619"/>
+<area shape="rect" id="Node000010" href="$group__SMBUS__peripheral__mode.html" title=" " alt="" coords="370,643,536,670"/>
+</map>

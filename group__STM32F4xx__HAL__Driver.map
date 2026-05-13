@@ -1,0 +1,58 @@
+<map id="STM32F4xx_HAL_Driver" name="STM32F4xx_HAL_Driver">
+<area shape="rect" id="Node000008" href="$group__ADC.html" title="ADC driver modules." alt="" coords="288,5,335,33"/>
+<area shape="rect" id="Node000009" href="$group__ADCEx.html" title="ADC Extended driver modules." alt="" coords="281,57,342,85"/>
+<area shape="rect" id="Node000010" href="$group__CEC.html" title="HAL CEC module driver." alt="" coords="288,109,335,137"/>
+<area shape="rect" id="Node000011" href="$group__CORTEX.html" title="CORTEX HAL module driver." alt="" coords="275,161,348,189"/>
+<area shape="rect" id="Node000012" href="$group__CRC.html" title="CRC HAL module driver." alt="" coords="288,213,335,241"/>
+<area shape="rect" id="Node000051" href="$group__CRYPEx.html" title=" " alt="" coords="277,265,346,293"/>
+<area shape="rect" id="Node000013" href="$group__DCMI.html" title="DCMI HAL module driver." alt="" coords="284,317,338,345"/>
+<area shape="rect" id="Node000014" href="$group__DCMIEx.html" title="DCMI Extended HAL module driver." alt="" coords="277,369,346,397"/>
+<area shape="rect" id="Node000015" href="$group__DMA.html" title="DMA HAL module driver." alt="" coords="287,421,336,449"/>
+<area shape="rect" id="Node000016" href="$group__DMAEx.html" title="DMA Extended HAL module driver." alt="" coords="280,473,343,501"/>
+<area shape="rect" id="Node000002" href="$group__EXTI.html" title="EXTI HAL module driver." alt="" coords="287,525,336,553"/>
+<area shape="rect" id="Node000017" href="$group__FLASH.html" title="FLASH HAL module driver." alt="" coords="281,577,342,605"/>
+<area shape="rect" id="Node000018" href="$group__FLASHEx.html" title="FLASH HAL Extension module driver." alt="" coords="274,629,349,657"/>
+<area shape="rect" id="Node000019" href="$group__FLASH__RAMFUNC.html" title="FLASH functions executed from RAM." alt="" coords="248,681,375,709"/>
+<area shape="rect" id="Node000054" href="$group__FMC__LL.html" title=" " alt="" coords="276,733,346,761"/>
+<area shape="rect" id="Node000005" href="$group__FMC__LL__Private__Macros.html" title=" " alt="" coords="230,785,393,813"/>
+<area shape="rect" id="Node000020" href="$group__FMPI2C.html" title="FMPI2C HAL module driver." alt="" coords="277,837,346,865"/>
+<area shape="rect" id="Node000021" href="$group__FMPI2CEx.html" title="FMPI2C Extended HAL module driver." alt="" coords="270,889,352,917"/>
+<area shape="rect" id="Node000022" href="$group__FMPSMBUS.html" title="FMPSMBUS HAL module driver." alt="" coords="266,941,356,969"/>
+<area shape="rect" id="Node000023" href="$group__FMPSMBUSEx.html" title="FMPSMBUS Extended HAL module driver." alt="" coords="259,993,364,1021"/>
+<area shape="rect" id="Node000055" href="$group__FSMC__LL.html" title=" " alt="" coords="273,1045,350,1073"/>
+<area shape="rect" id="Node000006" href="$group__FSMC__LL__Private__Macros.html" title=" " alt="" coords="226,1097,396,1125"/>
+<area shape="rect" id="Node000024" href="$group__GPIO.html" title="GPIO HAL module driver." alt="" coords="285,1149,338,1177"/>
+<area shape="rect" id="Node000003" href="$group__GPIOEx.html" title=" " alt="" coords="278,1201,345,1229"/>
+<area shape="rect" id="Node000007" href="$group__HAL.html" title="HAL module driver." alt="" coords="288,1253,334,1281"/>
+<area shape="rect" id="Node000030" href="$group__HAL__MSP.html" title="HAL MSP module." alt="" coords="274,1305,349,1333"/>
+<area shape="rect" id="Node000047" href="$group__HAL__TimeBase__RTC__Alarm__Template.html" title=" " alt="" coords="224,1357,398,1402"/>
+<area shape="rect" id="Node000048" href="$group__HAL__TimeBase__RTC__WakeUp__Template.html" title=" " alt="" coords="217,1426,406,1471"/>
+<area shape="rect" id="Node000056" href="$group__HAL__TimeBase__TIM.html" title=" " alt="" coords="241,1495,382,1522"/>
+<area shape="rect" id="Node000025" href="$group__I2C.html" title="I2C HAL module driver." alt="" coords="291,1547,332,1574"/>
+<area shape="rect" id="Node000026" href="$group__I2CEx.html" title="I2C HAL module driver." alt="" coords="284,1599,339,1626"/>
+<area shape="rect" id="Node000052" href="$group__I2S.html" title=" " alt="" coords="292,1651,331,1678"/>
+<area shape="rect" id="Node000027" href="$group__IRDA.html" title="HAL IRDA module driver." alt="" coords="286,1703,336,1730"/>
+<area shape="rect" id="Node000004" href="$group__IWDG.html" title=" " alt="" coords="283,1755,340,1782"/>
+<area shape="rect" id="Node000028" href="$group__LPTIM.html" title="LPTIM HAL module driver." alt="" coords="282,1807,341,1834"/>
+<area shape="rect" id="Node000029" href="$group__MMC.html" title="MMC HAL module driver." alt="" coords="285,1859,338,1886"/>
+<area shape="rect" id="Node000031" href="$group__PCD.html" title="PCD HAL module driver." alt="" coords="288,1911,335,1938"/>
+<area shape="rect" id="Node000032" href="$group__PCDEx.html" title="PCD Extended HAL module driver." alt="" coords="281,1963,342,1990"/>
+<area shape="rect" id="Node000033" href="$group__PWR.html" title="PWR HAL module driver." alt="" coords="286,2015,336,2042"/>
+<area shape="rect" id="Node000034" href="$group__PWREx.html" title="PWR HAL module driver." alt="" coords="279,2067,344,2094"/>
+<area shape="rect" id="Node000035" href="$group__RCC.html" title="RCC HAL module driver." alt="" coords="288,2119,335,2146"/>
+<area shape="rect" id="Node000036" href="$group__RCCEx.html" title="RCCEx HAL module driver." alt="" coords="281,2171,342,2198"/>
+<area shape="rect" id="Node000037" href="$group__RTC.html" title="RTC HAL module driver." alt="" coords="288,2223,334,2250"/>
+<area shape="rect" id="Node000038" href="$group__RTCEx.html" title="RTC Extended HAL module driver." alt="" coords="281,2275,342,2302"/>
+<area shape="rect" id="Node000039" href="$group__SAI.html" title="SAI HAL module driver." alt="" coords="291,2327,332,2354"/>
+<area shape="rect" id="Node000040" href="$group__SAIEx.html" title="SAI Extension HAL module driver." alt="" coords="284,2379,338,2406"/>
+<area shape="rect" id="Node000041" href="$group__SMARTCARD.html" title="HAL SMARTCARD module driver." alt="" coords="263,2431,360,2458"/>
+<area shape="rect" id="Node000042" href="$group__SMBUS.html" title="SMBUS HAL module driver." alt="" coords="280,2483,343,2510"/>
+<area shape="rect" id="Node000043" href="$group__SPDIFRX.html" title="SPDIFRX HAL module driver." alt="" coords="275,2535,348,2562"/>
+<area shape="rect" id="Node000044" href="$group__SPI.html" title="SPI HAL module driver." alt="" coords="291,2587,332,2614"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1435,169,1462"/>
+<area shape="rect" id="Node000045" href="$group__TIM.html" title="TIM HAL module driver." alt="" coords="289,2639,334,2666"/>
+<area shape="rect" id="Node000046" href="$group__TIMEx.html" title="TIM Extended HAL module driver." alt="" coords="282,2691,340,2718"/>
+<area shape="rect" id="Node000049" href="$group__UART.html" title="HAL UART module driver." alt="" coords="284,2743,338,2770"/>
+<area shape="rect" id="Node000050" href="$group__USART.html" title="HAL USART Synchronous module driver." alt="" coords="281,2795,342,2822"/>
+<area shape="rect" id="Node000053" href="$group__WWDG.html" title=" " alt="" coords="278,2847,344,2874"/>
+</map>

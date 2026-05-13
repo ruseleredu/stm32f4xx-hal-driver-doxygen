@@ -1,0 +1,10 @@
+<map id="ADC Exported Constants" name="ADC Exported Constants">
+<area shape="rect" id="Node000002" href="$group__ADCEx.html" title="ADC Extended driver modules." alt="" coords="5,169,67,197"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,169,285,197"/>
+<area shape="rect" id="Node000003" href="$group__ADCEx__Common__mode.html" title=" " alt="" coords="350,5,495,33"/>
+<area shape="rect" id="Node000004" href="$group__ADCEx__Direct__memory__access__mode__for__multi__mode.html" title=" " alt="" coords="333,57,512,102"/>
+<area shape="rect" id="Node000006" href="$group__ADCEx__External__trigger__Source__Injected.html" title=" " alt="" coords="349,126,496,171"/>
+<area shape="rect" id="Node000005" href="$group__ADCEx__External__trigger__edge__Injected.html" title=" " alt="" coords="349,196,496,240"/>
+<area shape="rect" id="Node000008" href="$group__ADCEx__channels.html" title=" " alt="" coords="345,264,500,292"/>
+<area shape="rect" id="Node000007" href="$group__ADCEx__injected__rank.html" title=" " alt="" coords="357,316,488,344"/>
+</map>
