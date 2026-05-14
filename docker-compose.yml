@@ -1,0 +1,18 @@
+services:
+  doxygen-gen:
+    image: ruseler/doxygen:alpine
+    container_name: doxygen_builder
+    # Explicitly override the entrypoint to allow shell scripts
+    entrypoint: /bin/sh
+    volumes:
+      - .:/project
+    working_dir: /project
+    command: >
+      -c "
+      if [ ! -d 'hal-driver' ]; then
+        git clone --depth 1 --branch master https://github.com/STMicroelectronics/stm32f4xx-hal-driver.git hal-driver;
+      fi &&
+      mkdir -p docs/html &&
+      doxygen Doxyfile &&
+      echo 'Build complete! Check the docs/html folder.'
+      "

@@ -1,0 +1,27 @@
+# ---- Project Specifics ----
+# The cloned STM32 HAL driver
+hal-driver/
+
+# Doxygen Output
+# We ignore the whole docs folder, or specifically the html/latex output
+docs/
+# If you want to keep the docs folder but ignore the generated content:
+# docs/html/
+# docs/latex/
+
+# ---- Build Artifacts ----
+# Local patched Doxyfile created by the script/compose
+Doxyfile.local
+Doxyfile.ci
+
+# ---- Docker ----
+# Ignore docker-compose override files if you use them
+docker-compose.override.yml
+
+# ---- OS / IDE Specifics ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
