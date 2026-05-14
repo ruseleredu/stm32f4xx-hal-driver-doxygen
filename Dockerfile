@@ -45,4 +45,6 @@ ENV PATH="/opt/doxygen/bin:${PATH}"
 
 WORKDIR /workspace
 
-ENTRYPOINT ["doxygen"]
+# This allows the container to run doxygen by default, 
+# but makes it much easier to override with a shell script.
+CMD ["doxygen"]
