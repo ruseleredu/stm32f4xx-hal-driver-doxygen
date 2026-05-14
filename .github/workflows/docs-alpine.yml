@@ -25,7 +25,6 @@ jobs:
       - name: Run Doxygen
         run: |
           mkdir -p docs/html
-          sed 's|/src/hal-driver|hal-driver|g; s|/docs/output|docs|g' Doxyfile > Doxyfile.ci
           doxygen Doxyfile.ci
 
       - name: Add .nojekyll

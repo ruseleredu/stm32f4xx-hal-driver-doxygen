@@ -11,14 +11,13 @@ PROJECT_NUMBER         = master
 PROJECT_LOGO           =
 
 # ---- Input ---------------------------------------------------
-INPUT                  = /src/hal-driver/Inc \
-                         /src/hal-driver/Src
+INPUT            = hal-driver/Inc hal-driver/Src
 FILE_PATTERNS          = *.c *.h
 RECURSIVE              = YES
 EXCLUDE_PATTERNS       = */Legacy/*
 
 # ---- Output --------------------------------------------------
-OUTPUT_DIRECTORY       = /docs/output
+OUTPUT_DIRECTORY = docs
 GENERATE_HTML          = YES
 HTML_OUTPUT            = html
 GENERATE_LATEX         = NO        # set YES to also build a PDF
@@ -35,7 +34,7 @@ EXTRACT_ANON_NSPACES   = NO
 # Define the macros below so Doxygen sees all code paths.
 ENABLE_PREPROCESSING   = YES
 MACRO_EXPANSION        = YES
-EXPAND_ONLY_PREDEF     = NO
+EXPAND_ONLY_PREDEF     = YES
 PREDEFINED             = \
     USE_HAL_DRIVER \
     STM32F4xx \
@@ -79,3 +78,6 @@ WARNINGS               = YES
 WARN_IF_UNDOCUMENTED   = NO        # HAL headers are partially documented
 WARN_NO_PARAMDOC       = NO
 QUIET                  = NO
+
+# Since this is for GitHub Pages, you might want to add:
+SHORT_NAMES = NO
