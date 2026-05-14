@@ -1,6 +1,9 @@
 services:
   doxygen-gen:
-    image: ruseler/doxygen:alpine
+    # image: ruseler/doxygen:alpine
+    build:
+      context: .
+      dockerfile: Dockerfile # Assuming you named this file 'Dockerfile'
     container_name: doxygen_builder
     # Explicitly override the entrypoint to allow shell scripts
     entrypoint: /bin/sh
